@@ -23,4 +23,4 @@
 ![Help](assets/run.png)
 
 ### **SOCIAL NETWORK**
-* Facebook: [Z3R0 Sh3ll]("https://www.facebook.com/shz3r0/")
+* Facebook: [Z3R0 Sh3ll](https://www.facebook.com/shz3r0/)
